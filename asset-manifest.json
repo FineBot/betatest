@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/betatest/static/css/main.5729bacf.chunk.css",
-    "main.js": "/betatest/static/js/main.34e22e18.chunk.js",
-    "main.js.map": "/betatest/static/js/main.34e22e18.chunk.js.map",
-    "runtime-main.js": "/betatest/static/js/runtime-main.5751cf0d.js",
-    "runtime-main.js.map": "/betatest/static/js/runtime-main.5751cf0d.js.map",
+    "main.css": "/betatest/static/css/main.7add08d8.chunk.css",
+    "main.js": "/betatest/static/js/main.ad094685.chunk.js",
+    "main.js.map": "/betatest/static/js/main.ad094685.chunk.js.map",
+    "runtime-main.js": "/betatest/static/js/runtime-main.9c843fd0.js",
+    "runtime-main.js.map": "/betatest/static/js/runtime-main.9c843fd0.js.map",
     "static/css/2.2cfa1b23.chunk.css": "/betatest/static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.a9a605e1.chunk.js": "/betatest/static/js/2.a9a605e1.chunk.js",
-    "static/js/2.a9a605e1.chunk.js.map": "/betatest/static/js/2.a9a605e1.chunk.js.map",
+    "static/js/2.4f409ac5.chunk.js": "/betatest/static/js/2.4f409ac5.chunk.js",
+    "static/js/2.4f409ac5.chunk.js.map": "/betatest/static/js/2.4f409ac5.chunk.js.map",
     "index.html": "/betatest/index.html",
-    "precache-manifest.5dfbf3af5cf306207dc4ea483e74131c.js": "/betatest/precache-manifest.5dfbf3af5cf306207dc4ea483e74131c.js",
+    "precache-manifest.b089dd590d4d3f4af0efa4631cfd6907.js": "/betatest/precache-manifest.b089dd590d4d3f4af0efa4631cfd6907.js",
     "service-worker.js": "/betatest/service-worker.js",
     "static/css/2.2cfa1b23.chunk.css.map": "/betatest/static/css/2.2cfa1b23.chunk.css.map",
-    "static/css/main.5729bacf.chunk.css.map": "/betatest/static/css/main.5729bacf.chunk.css.map",
+    "static/css/main.7add08d8.chunk.css.map": "/betatest/static/css/main.7add08d8.chunk.css.map",
+    "static/js/2.4f409ac5.chunk.js.LICENSE": "/betatest/static/js/2.4f409ac5.chunk.js.LICENSE",
     "static/media/1LZwR4l6AtKw.png": "/betatest/static/media/1LZwR4l6AtKw.3dff462c.png",
     "static/media/LZwR4l6AtKw.jpg": "/betatest/static/media/LZwR4l6AtKw.f8f5fd7c.jpg",
     "static/media/ic_launcher.png": "/betatest/static/media/ic_launcher.bc7158f2.png",
@@ -22,10 +23,10 @@
     "static/media/persik.png": "/betatest/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5751cf0d.js",
+    "static/js/runtime-main.9c843fd0.js",
     "static/css/2.2cfa1b23.chunk.css",
-    "static/js/2.a9a605e1.chunk.js",
-    "static/css/main.5729bacf.chunk.css",
-    "static/js/main.34e22e18.chunk.js"
+    "static/js/2.4f409ac5.chunk.js",
+    "static/css/main.7add08d8.chunk.css",
+    "static/js/main.ad094685.chunk.js"
   ]
 }
