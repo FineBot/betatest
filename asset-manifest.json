@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/betatest/static/css/main.20650d3d.chunk.css",
-    "main.js": "/betatest/static/js/main.1f005046.chunk.js",
-    "main.js.map": "/betatest/static/js/main.1f005046.chunk.js.map",
+    "main.css": "/betatest/static/css/main.a40ae2c5.chunk.css",
+    "main.js": "/betatest/static/js/main.438822f6.chunk.js",
+    "main.js.map": "/betatest/static/js/main.438822f6.chunk.js.map",
     "runtime-main.js": "/betatest/static/js/runtime-main.46af511e.js",
     "runtime-main.js.map": "/betatest/static/js/runtime-main.46af511e.js.map",
     "static/css/2.abebce0a.chunk.css": "/betatest/static/css/2.abebce0a.chunk.css",
-    "static/js/2.100928b6.chunk.js": "/betatest/static/js/2.100928b6.chunk.js",
-    "static/js/2.100928b6.chunk.js.map": "/betatest/static/js/2.100928b6.chunk.js.map",
+    "static/js/2.f0c27274.chunk.js": "/betatest/static/js/2.f0c27274.chunk.js",
+    "static/js/2.f0c27274.chunk.js.map": "/betatest/static/js/2.f0c27274.chunk.js.map",
     "index.html": "/betatest/index.html",
-    "precache-manifest.7553dda5231054a84d77d6771322c7f2.js": "/betatest/precache-manifest.7553dda5231054a84d77d6771322c7f2.js",
+    "precache-manifest.c876a8f7064953a08c56e97a8993b3ac.js": "/betatest/precache-manifest.c876a8f7064953a08c56e97a8993b3ac.js",
     "service-worker.js": "/betatest/service-worker.js",
     "static/css/2.abebce0a.chunk.css.map": "/betatest/static/css/2.abebce0a.chunk.css.map",
-    "static/css/main.20650d3d.chunk.css.map": "/betatest/static/css/main.20650d3d.chunk.css.map",
-    "static/js/2.100928b6.chunk.js.LICENSE.txt": "/betatest/static/js/2.100928b6.chunk.js.LICENSE.txt",
+    "static/css/main.a40ae2c5.chunk.css.map": "/betatest/static/css/main.a40ae2c5.chunk.css.map",
+    "static/js/2.f0c27274.chunk.js.LICENSE.txt": "/betatest/static/js/2.f0c27274.chunk.js.LICENSE.txt",
     "static/media/1LZwR4l6AtKw.png": "/betatest/static/media/1LZwR4l6AtKw.3dff462c.png",
     "static/media/LZwR4l6AtKw.jpg": "/betatest/static/media/LZwR4l6AtKw.f8f5fd7c.jpg",
     "static/media/ic_launcher.png": "/betatest/static/media/ic_launcher.bc7158f2.png",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.46af511e.js",
     "static/css/2.abebce0a.chunk.css",
-    "static/js/2.100928b6.chunk.js",
-    "static/css/main.20650d3d.chunk.css",
-    "static/js/main.1f005046.chunk.js"
+    "static/js/2.f0c27274.chunk.js",
+    "static/css/main.a40ae2c5.chunk.css",
+    "static/js/main.438822f6.chunk.js"
   ]
 }
